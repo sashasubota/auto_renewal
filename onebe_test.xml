@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <yml_catalog date="2020-12-24 08:00">
 	<offers>
-	    <offer id="18568" available="true">
-	    <price>370</price>
-	    <price_old>463</price_old>
+	    <offer id="45802" available="true">
+	    <price>132</price>
             <name lang="ru"></name>
             <name lang="ua"></name>	
 	    </offer>
-	    <offer id="18569" available="false">
-	    <price>196</price>
+	    <offer id="45704" available="true">
+            <price>83</price>
+            <price_old>111</price_old>
             <name lang="ru"></name>
             <name lang="ua"></name>
-            <description lang="ru"></description>
-            <description lang="ua"></description>
 	    </offer>
-	    <offer id="18570" available="false">
-	    <price>291</price>
+	    <offer id="45701" available="true">
+	    <price>83</price>
+            <price_old>111</price_old>
             <name lang="ru"></name>
             <name lang="ua"></name>
 	    </offer>
