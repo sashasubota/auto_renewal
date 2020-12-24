@@ -22,6 +22,7 @@
             <price>83</price>
 	    <price_old>111</price_old>
             <name lang="ru"></name>
-            <name lang="ua"></name>
+	    <name lang="ua"></name>
+	    </offer>
        </offers>
 </yml_catalog>
