@@ -1,57 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <yml_catalog date="2020-12-24 08:00">
-		<offers>
-			<offer id="18568" available="true">
-			<price>370</price>
-			<price_old>463</price_old>
-			 <category></category>
-            <picture></picture>
-            <picture></picture>
-            <vendor></vendor>
+	<offers>
+	    <offer id="18568" available="true">
+	    <price>370</price>
+	    <price_old>463</price_old>
+            <name lang="ru"></name>
+            <name lang="ua"></name>	
+	    </offer>
+	    <offer id="18569" available="false">
+	    <price>196</price>
             <name lang="ru"></name>
             <name lang="ua"></name>
             <description lang="ru"></description>
             <description lang="ua"></description>
-            <weight></weight>
-            <width></width>
-            <height></height>
-            <length></length>
-            <barcode></barcode>
-            <country_of_origin></country_of_origin>	
-			</offer>
-			<offer id="18569" available="false">
-			<price>196</price>
-			<category></category>
-            <picture></picture>
-            <picture></picture>
-            <vendor></vendor>
+	    </offer>
+	    <offer id="18570" available="false">
+	    <price>291</price>
             <name lang="ru"></name>
             <name lang="ua"></name>
-            <description lang="ru"></description>
-            <description lang="ua"></description>
-            <weight></weight>
-            <width></width>
-            <height></height>
-            <length></length>
-            <barcode></barcode>
-            <country_of_origin></country_of_origin>
-			</offer>
-			<offer id="18570" available="false">
-			<price>291</price>
-			<category></category>
-            <picture></picture>
-            <picture></picture>
-            <vendor></vendor>
-            <name lang="ru"></name>
-            <name lang="ua"></name>
-            <description lang="ru"></description>
-            <description lang="ua"></description>
-            <weight></weight>
-            <width></width>
-            <height></height>
-            <length></length>
-            <barcode></barcode>
-            <country_of_origin></country_of_origin>
-			</offer>
-		</offers>
+	    </offer>
+	</offers>
 </yml_catalog>
